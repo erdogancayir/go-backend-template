@@ -34,12 +34,12 @@ func (a *mailRepository) SendMail(to string) (string, error) {
 		"Your verification code is: " + verificationCode
 
 	m := mail.NewMessage()
-	m.SetHeader("From", "e.cayir2022@gtu.edu.tr")
+	m.SetHeader("From", "<mail>")
 	m.SetHeader("To", to)
 	m.SetHeader("Subject", "Confirmation code")
 	m.SetBody("text/plain", msg)
 
-	d := mail.NewDialer("smtp.office365.com", 587, "e.cayir2022@gtu.edu.tr", "boston1907..")
+	d := mail.NewDialer("smtp.office365.com", 587, "<mail>", "<passwd>")
 	d.StartTLSPolicy = mail.MandatoryStartTLS
 
 	if err := d.DialAndSend(m); err != nil {
