@@ -31,10 +31,10 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)<br>
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)<br>
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)<br>
-
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)<br>
 There are Dockerfile and docker-compose.yml files required for the application to be run inside the Docker container.
 
 
-Katkıda Bulunma
+### Contributing
 
-Bu proje, her türlü katkıya açıktır. Sorunları bildirme, özellikler önerme veya doğrudan kod katkısında bulunma gibi çeşitli yollarla katkıda bulunabilirsiniz. 
+This project is open to all kinds of contributions. You can contribute in a variety of ways, including reporting issues, suggesting features, or contributing code directly.
