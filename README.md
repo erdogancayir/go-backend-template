@@ -3,9 +3,9 @@
 
 ### Description
 
-This project includes a backend service application template written in Go. This application contains various folders and files to follow a clean code structure.
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) This project includes a backend service application template written in Go. This application contains various folders and files to follow a clean code structure.
 
-### contents
+### Contents
 
       api: These ledgers contain all routing and control operations.
           controller: These folders contain control functions for various API endpoints.
@@ -30,6 +30,7 @@ This project includes a backend service application template written in Go. This
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) GitHub: Code repository and collaboration platform <br>
 
 There are Dockerfile and docker-compose.yml files required for the application to be run inside the Docker container.
 
