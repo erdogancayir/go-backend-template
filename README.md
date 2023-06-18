@@ -35,6 +35,12 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)<br>
 There are Dockerfile and docker-compose.yml files required for the application to be run inside the Docker container.
 
+### Architecture Layers of the project
+ 1. Router
+ 2. Controller
+ 3. Usecase
+ 4. Repository
+ 5. Domain
 
 ### Contributing
 
