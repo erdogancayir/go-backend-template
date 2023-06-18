@@ -1,5 +1,6 @@
  Go (Golang) Backend Architecture project with ECHO, MongoDB, JWT Authentication Middleware, SMTP Mail
 
+
 ### Description
 
 This project includes a backend service application template written in Go. This application contains various folders and files to follow a clean code structure.
@@ -22,6 +23,13 @@ This project includes a backend service application template written in Go. This
           jwt_auth_middleware.go: Contains the JWT authentication middleware.
       repository: These folders contain files belonging to storage operations.
       usecase: This folder contains files containing detection clouds and job outputs.
+
+### Features<br>
+
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
 There are Dockerfile and docker-compose.yml files required for the application to be run inside the Docker container.
 
