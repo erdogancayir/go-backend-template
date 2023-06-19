@@ -5,7 +5,7 @@
 
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) This project includes a backend service application template written in Go. This application contains various folders and files to follow a clean code structure. This project is designed to create a clean and understandable backend service application. This structure makes the code easier to read and maintain.
 
-#### How to see datas using terminal.
+#### How can I see the data using terminal
 ```mongosh mongodb://root:example@<ipAddress>:27017```
 
 ### Contents
