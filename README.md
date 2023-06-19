@@ -7,7 +7,7 @@
 
 #### How can I see the data using terminal
   ##### how to get mongodb ipaddress
-```   docker inspect <mongodbContainer> | grep IPAddress ```
+```   docker inspect <mongodbContainer> | grep IPAddress ``` <br>
 ```mongosh mongodb://root:example@<ipAddress>:27017```
 
 ### Contents
