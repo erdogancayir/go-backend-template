@@ -52,3 +52,4 @@ There are Dockerfile and docker-compose.yml files required for the application t
 This project is open to all kinds of contributions. You can contribute in a variety of ways, including reporting issues, suggesting features, or contributing code directly.
 
 <img src="https://github.com/erdogancayir/go-backend-template/assets/94300378/c19b2b90-c062-4180-9935-6905e4c62325" width="300">
+<img src="https://github.com/erdogancayir/go-backend-template/assets/94300378/7da2015f-112a-48d0-a3b0-fe332cd739e6" width="300">
